@@ -8,8 +8,6 @@
   
 - 📫 How to reach me: You can contact me via email or social media @wpfsilvaa on Instagram or wpf.silvaa@outlook.com.
   
-- 😄 Pronouns: He/Him
-  
 - ⚡ Fun fact: I'm an ex-military professional who recently switched to tech and enjoys hands-on learning with tools like the Bash Bunny, USB Hubber Ducky, ESP32, etc...
   
 
@@ -21,7 +19,7 @@
 </div>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
