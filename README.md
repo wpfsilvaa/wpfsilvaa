@@ -10,14 +10,6 @@
 - 📫 How to reach me: You can contact me via email or social media @wpfsilva.sec on Instagram or wpf.silvaa@outlook.com.
   
 - ⚡ Fun fact: I'm an ex-military professional who recently switched to tech and enjoys hands-on learning with tools like the Bash Bunny, USB Hubber Ducky, ESP32, etc...
-  
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wpfsilvaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wpfsilvaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 <div align="left">
