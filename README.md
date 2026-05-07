@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I'm an ex-military professional who recently switched to tech and enjoys hands-on learning with tools like the Bash Bunny, USB Hubber Ducky, ESP32, etc...
 
 ###
+
 <div align="left">
   <h3 align="left">Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -84,5 +85,4 @@
 </div>
 
 ###
-
 
