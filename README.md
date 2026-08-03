@@ -7,7 +7,7 @@
   
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, artificial intelligence algorithms, and innovative technology solutions.
   
-- 📫 How to reach me: You can contact me via email or social media @wpfsilva.sec on Instagram or wpf.silvaa@outlook.com.
+- 📫 How to reach me: You can contact me via email or social media @wpfsilvaa on Instagram or wpf.silvaa@outlook.com.
   
 - ⚡ Fun fact: I'm an ex-military professional who recently switched to tech and enjoys hands-on learning with tools like the Bash Bunny, USB Hubber Ducky, ESP32, etc...
 
